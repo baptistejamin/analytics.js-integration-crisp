@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-crisp.git"
+    "url": "git+https://github.com/baptistejamin/analytics.js-integration-crisp.git"
   },
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-crisp/issues"
+    "url": "https://github.com/baptistejamin/analytics.js-integration-crisp/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-crisp#readme",
+  "homepage": "https://github.com/baptistejamin/analytics.js-integration-crisp#readme",
   "dependencies": {
     "@segment/analytics.js-integration": "^2.1.0"
   },
